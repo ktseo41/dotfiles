@@ -1,3 +1,4 @@
+#!/bin/bash
 alias g='git'
 alias co='checkout'
 alias ci='commit'
